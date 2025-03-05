@@ -1,0 +1,15 @@
+C:\Users\ugrst\Documents\GitHub\odev3\Odev3\Odev3\bin\Debug\net9.0\Odev3.exe
+C:\Users\ugrst\Documents\GitHub\odev3\Odev3\Odev3\bin\Debug\net9.0\Odev3.deps.json
+C:\Users\ugrst\Documents\GitHub\odev3\Odev3\Odev3\bin\Debug\net9.0\Odev3.runtimeconfig.json
+C:\Users\ugrst\Documents\GitHub\odev3\Odev3\Odev3\bin\Debug\net9.0\Odev3.dll
+C:\Users\ugrst\Documents\GitHub\odev3\Odev3\Odev3\bin\Debug\net9.0\Odev3.pdb
+C:\Users\ugrst\Documents\GitHub\odev3\Odev3\Odev3\obj\Debug\net9.0\Odev3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugrst\Documents\GitHub\odev3\Odev3\Odev3\obj\Debug\net9.0\Odev3.AssemblyInfoInputs.cache
+C:\Users\ugrst\Documents\GitHub\odev3\Odev3\Odev3\obj\Debug\net9.0\Odev3.AssemblyInfo.cs
+C:\Users\ugrst\Documents\GitHub\odev3\Odev3\Odev3\obj\Debug\net9.0\Odev3.csproj.CoreCompileInputs.cache
+C:\Users\ugrst\Documents\GitHub\odev3\Odev3\Odev3\obj\Debug\net9.0\Odev3.sourcelink.json
+C:\Users\ugrst\Documents\GitHub\odev3\Odev3\Odev3\obj\Debug\net9.0\Odev3.dll
+C:\Users\ugrst\Documents\GitHub\odev3\Odev3\Odev3\obj\Debug\net9.0\refint\Odev3.dll
+C:\Users\ugrst\Documents\GitHub\odev3\Odev3\Odev3\obj\Debug\net9.0\Odev3.pdb
+C:\Users\ugrst\Documents\GitHub\odev3\Odev3\Odev3\obj\Debug\net9.0\Odev3.genruntimeconfig.cache
+C:\Users\ugrst\Documents\GitHub\odev3\Odev3\Odev3\obj\Debug\net9.0\ref\Odev3.dll
